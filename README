@@ -57,3 +57,4 @@ Patches applied in order
 * statuspadding
 * cyclelayouts
 * dwm-status-signals (for dwmblocks)
+* restartsig
