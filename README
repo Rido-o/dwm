@@ -54,5 +54,6 @@ Patches applied in order
 * vanitygaps combo
 * pertag
 * centeredwindowname
+* statuspadding
 * cyclelayouts
 * dwm-status-signals (for dwmblocks)
